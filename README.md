@@ -9,4 +9,4 @@ generateplaylist.py3 [path]
 
 
 
-* if path is not provided, file path will be used 
+* if path is not provided, current directory will be used 
